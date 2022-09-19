@@ -1,10 +1,7 @@
-# Hello there!
-
-This is Huy's (or Jason's, whichever you prefer) personal portfolio space. 
-
+# Hello there, it's Huy (Jason)
 **Please find all of my projects in the pinned session below.**
 
-# About me: 
+### About me: 
 
 * I am Vietnamese 🇻🇳 and have just moved to the US in March 2022 as an immigrant.
 
